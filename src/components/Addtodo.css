@@ -1,0 +1,11 @@
+.Add-to-comp{
+    max-width: 100%;
+    display: grid;
+    justify-content: center;
+}
+.form-control{
+    width: 100%
+}
+.Add-form{
+    width: 150%;
+}
