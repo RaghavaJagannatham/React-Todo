@@ -1,0 +1,10 @@
+.card{
+    max-width: 100%;
+    display: grid;
+    justify-content: center;
+    
+}
+.card-body{
+    margin: 10px;
+    padding: 10px;
+}
